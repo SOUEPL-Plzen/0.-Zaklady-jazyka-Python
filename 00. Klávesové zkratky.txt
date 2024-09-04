@@ -1,0 +1,5 @@
+Zde si ukážeme klávesové zkratky které se nám budou v pyhtonu hodit
+1. pravý alt + F/G  (hranaté závorky)     --->    [ / ]
+2. pravý alt + B/N  (složené závorky)     --->    { / }
+3. ctrl + levá alt + X  (Hashtag) --->      #
+4. tab                   --->  oddělení sloupce

@@ -1,0 +1,43 @@
+Zde jsou všehcny kody které najdete v kapitolách:
+
+Proměnné a výstup
+    print()
+    nazev_promenne = hodnota_promenne
+
+Vstup 
+    input()
+
+Přetipování
+    str()
+    int()
+    bool()
+    float()
+
+Posmínky
+    if (Jestli platí...)
+    elif (Nebo jestli platí...)
+    else (Nebo, projeví se pokaždé, pokud neplatí ani jedná z podmínek)
+
+Cykli
+    while (Cyklus s podmínkou)
+    for i in range() (Cyklus s pevným počtem opakováním)
+
+Funkce
+    def nazev_funkce(parametry)
+
+Seznamy
+    nazev_pole = [] (Deklarace/inicializace proměné s polem)
+    append
+    remove
+    pop
+    sort
+
+Import
+    import nazev_knihovny
+
+Zkouška
+    try 
+    except
+
+Třídy
+    class nazev_tridy
