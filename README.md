@@ -98,7 +98,7 @@ Doporučuji vyzkoušet různé zdroje a kombinovat je, aby sis našel ten, kter�
 
 ## Kapitoly
 
-### 1. Klávesové zkratky
+### 0. Klávesové zkratky
 Klávesové zkratky ti umožní rychlejší a efektivnější práci v prostředí Pythonu. Mezi nejčastěji používané klávesové zkratky patří:
 
 - **Ctrl + C**: Přerušení běžícího programu.
@@ -112,32 +112,35 @@ Klávesové zkratky ti umožní rychlejší a efektivnější práci v prostřed
   
 Další klávesové zkratky najdeš v přiloženém souboru `00. Klávesové zkratky.txt`.
 
-### 2. Proměnné a výstup
+### 1. Proměnné a výstup
 Tato kapitola se zaměřuje na definici proměnných a práci s výstupy v Pythonu. Naučíš se, jak vytvářet a manipulovat s proměnnými a jak zobrazit jejich obsah v konzoli. Kód této kapitoly najdeš v souboru `01. Proměnné a Výstup.py`.
 
-### 3. Práce s proměnnými
+### 2. Práce s proměnnými
 V této kapitole se podrobněji seznámíme s proměnnými a ukážeme si různé operace, které můžeme s proměnnými provádět, jako je přidávání, násobení, atd. Podívej se na `02. Práce s proměnnými.py` pro více informací.
 
-### 4. Vstup (Input)
+### 3. Vstup (Input)
 Tato kapitola vysvětluje, jak v Pythonu získávat vstupy od uživatele pomocí funkce `input()`. Tento koncept je demonstrován v souboru `03. Vstup (Input).py`.
 
-### 5. Přetypování do jiných datových typů
+### 4. Přetypování do jiných datových typů
 V Pythonu je možné měnit typy proměnných, např. z textu na číslo nebo naopak. Naučíš se používat funkce jako `int()`, `float()`, `str()`, které jsou klíčové pro přetypování dat. Viz soubor `04. Přetypování do jiných datových typů.py`.
 
-### 6. Podmínky
+### 5. Podmínky
 Podmínky umožňují řídit tok programu na základě určitých podmínek. Tato kapitola tě provede používáním klíčových slov jako `if`, `else`, `elif` a operátorů jako `==`, `!=`, `>`, `<`. Podívej se na příklady v souboru `05. Podmínky.py`.
 
-### 7. Cykly
+### 6. Cykly
 Cykly slouží k opakování bloků kódu. Naučíš se používat základní cykly, jako `for` a `while`, a porozumíš tomu, kdy je vhodné který z nich použít. Ukázky najdeš v souboru `06. Cykly.py`.
 
-### 8. Funkce
+### 7. Funkce
 Funkce v Pythonu ti umožní rozdělit kód do menších, znovupoužitelných částí. Naučíš se vytvářet vlastní funkce a jak jim předávat argumenty. Více o funkcích najdeš v souboru `07. Funkce.py`.
 
-### 9. Seznamy
+### 8. Seznamy
 Seznamy jsou klíčovým datovým typem, který umožňuje ukládat více hodnot do jedné proměnné. Tato kapitola se zaměřuje na práci se seznamy, jejich úpravy a manipulaci. Příklady najdeš v souboru `08. Seznam.py`.
 
-### 10. Import
+### 9. Import
 Importování modulů ti umožní používat externí knihovny a funkce, které nejsou součástí základního jazyka Python. Ukážeme si, jak importovat standardní i externí knihovny. Více informací najdeš v souboru `09. Import.py`.
+
+### 10. Zkouška
+Zkouška pomocí bloku try a except ti umožní zachytit chyby, které by jinak způsobily pád programu. Naučíš se, jak správně pracovat s výjimkami a zajistit, aby program fungoval i při neočekávaných situacích. Příklady najdeš v souboru `10. Zkouška.py`.
 
 ### 11. Třídy
 Třídy ti umožní vytvářet vlastní objekty a struktury dat pomocí objektově orientovaného přístupu. Ukážeme si, jak definovat třídy a pracovat s objekty v Pythonu. Více v souboru `11. Třídy.py`.
