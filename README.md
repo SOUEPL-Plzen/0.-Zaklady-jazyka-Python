@@ -98,7 +98,9 @@ Doporučuji vyzkoušet různé zdroje a kombinovat je, aby sis našel ten, kter�
 
 ## Kapitoly
 
-### 0. Klávesové zkratky
+### 0. Klávesové zkratky a Python taháček kodu
+Python taháček kodu shrnuje všechny základní příkazy z kapitol, jako jsou proměnné, vstup a výstup, podmínky, cykly, funkce, a další. Můžeš jej použít jako rychlou referenci při psaní kódu.
+
 Klávesové zkratky ti umožní rychlejší a efektivnější práci v prostředí Pythonu. Mezi nejčastěji používané klávesové zkratky patří:
 
 - **Ctrl + C**: Přerušení běžícího programu.
@@ -110,7 +112,7 @@ Klávesové zkratky ti umožní rychlejší a efektivnější práci v prostřed
 - **Ctrl + levá alt + X** (Hashtag) → `#` Slouží pro komentáře v kódu
 - **Tab** → Odsazení řádku (tabulátor)
   
-Další klávesové zkratky najdeš v přiloženém souboru `00. Klávesové zkratky.txt`.
+Více info najdeš v přiloženém souboru `00. Klávesové zkratky.txt` a `00. Python taháček kodu.txt`.
 
 ### 1. Proměnné a výstup
 Tato kapitola se zaměřuje na definici proměnných a práci s výstupy v Pythonu. Naučíš se, jak vytvářet a manipulovat s proměnnými a jak zobrazit jejich obsah v konzoli. Kód této kapitoly najdeš v souboru `01. Proměnné a Výstup.py`.
