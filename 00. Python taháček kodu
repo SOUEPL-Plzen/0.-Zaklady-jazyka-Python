@@ -5,13 +5,13 @@ Proměnné a výstup
     nazev_promenne = hodnota_promenne
 
 Vstup 
-    input()
+    input() (Vstup pro uživatele)
 
 Přetipování
-    str()
-    int()
-    bool()
-    float()
+    str()     (String)
+    int()     (intiger)
+    bool()    (Boiline)
+    float()   (Float)
 
 Posmínky
     if (Jestli platí...)
@@ -23,21 +23,21 @@ Cykli
     for i in range() (Cyklus s pevným počtem opakováním)
 
 Funkce
-    def nazev_funkce(parametry)
+    def nazev_funkce(parametry)  (Vytváření funkcí)
 
 Seznamy
     nazev_pole = [] (Deklarace/inicializace proměné s polem)
-    append
-    remove
-    pop
-    sort
+    append (Přídáni do pole)
+    remove (Odebrání z pole pomocí hodnoty)
+    pop    (Odebrání z pole pomocí pozice)
+    sort   (Seřazení)
 
 Import
-    import nazev_knihovny
+    import nazev_knihovny (Vkládání knihoven)
 
 Zkouška
-    try 
-    except
+    try     (Zkouška kodu pro error)
+    except  (Pokud nastane chyba)
 
 Třídy
-    class nazev_tridy
+    class nazev_tridy (Vytovření tříd)
